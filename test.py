@@ -1,2 +1,2 @@
 for i in range(10):
-    print(f"{i}**2={i**2}")
+    print(f"{i} ins Quadrat ist {i**2}")
